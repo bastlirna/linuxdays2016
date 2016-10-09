@@ -17,7 +17,7 @@ Ukázka připojení k MQTT serveru. [demo 2] (demo2.zip)
 * Přepište kód tak, aby jste zápisem do kanálu **/linuxdays/espDemoBoard*<serialNO>*/command** mohli rozsvítit ledku.
 * Přepište kód tak, aby při stisku tlačítka odeslal zprávu do topicu **/linuxdays/espDemoBoard*<serialNO>*/button**
 
-### Doporučení
+## Doporučení
 Pro připojení k MQTT serveru je potřeba knihovně *PubSubClient* říct, jakou má použít verzi protokolu. V *PlatformIO* to lze za pomoci volby v *platform.ini* 
 	
 	build_flags = -D MQTT_VERSION=MQTT_VERSION_3_1
