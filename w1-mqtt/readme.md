@@ -60,7 +60,7 @@ Založíme uživatele **john** s heslem **doe** a upravíme práva k souboru s h
     chmod o-r mosquitto.passwd 
 Restartujeme **mosquitto**
     
-    systemctl reload mosquitto.service
+    systemctl restart mosquitto.service
 Pro zkoušku ACL můžeme využít tyto příkazy
 
     mosquitto_pub -h localhost -t /test -m "test data" -u john -P doe
