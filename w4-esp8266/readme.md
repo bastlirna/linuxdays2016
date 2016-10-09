@@ -1,5 +1,5 @@
 # Drátujeme IoT: ESP8266
-Workshop na programování chipu ESP8266
+Workshop na programování chipu ESP8266. Workshop využívá [ESP8266 demo board] (https://github.com/bastlirna/esp8266-board).
 
 ## Demo 1
 Naprogramujte ESP8266 tak aby po seriové lince vypisovalo "Hello world". Použijte Arduino knihovny.
