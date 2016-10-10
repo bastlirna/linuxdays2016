@@ -1,4 +1,5 @@
-# Drátujeme IoT: Influx DB
+# Drátujeme IoT :: Influx DB
+
 Workshop na instalaci a konfiguraci Influx DB a Grafana
 
 ## InfluxDB

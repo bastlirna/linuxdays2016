@@ -2,7 +2,7 @@
 
 ## Prezentace
 
-- [slajdy](PlatformIO-LinuxDays2016.pdf)
+- [Slajdy](PlatformIO-LinuxDays2016.pdf) (PDF)
 
 ## Odkazy z prezentace
 

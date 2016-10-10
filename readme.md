@@ -1,5 +1,7 @@
 # Dratujeme IoT - LinuxDays 2016
 
+Podklady pro serii přednášek a workshopů **Drátujeme IoT** na konferenci [LinuxDays 2016](https://www.linuxdays.cz/2016/).
+
 ## Přednášky
 
 - [Drátujeme IoT](p1-dratujeme-iot/readme.md)

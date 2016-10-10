@@ -1,4 +1,4 @@
-# Workshop Dratujeme IoT: Node-RED
+# Workshop Dratujeme IoT :: Node-RED
 
 
 
