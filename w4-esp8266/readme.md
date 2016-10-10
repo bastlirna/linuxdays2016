@@ -12,7 +12,7 @@ Target platform při vytvráření projektu je **Espressif ESP8266 ESP-12E**. Ne
 	board = nodemcu
 
 ## Demo 2
-Ukázka připojení k MQTT serveru. [demo 2] (demo2.zip)
+Ukázka připojení k MQTT serveru. [demo 2] (demo2/demo2.zip)
 
 * Přepište kód tak, aby jste zápisem do kanálu **/linuxdays/espDemoBoard*<serialNO>*/command** mohli rozsvítit ledku.
 * Přepište kód tak, aby při stisku tlačítka odeslal zprávu do topicu **/linuxdays/espDemoBoard*<serialNO>*/button**
