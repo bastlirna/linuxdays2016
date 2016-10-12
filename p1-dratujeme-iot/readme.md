@@ -12,6 +12,7 @@
 - [https://www.influxdata.com/time-series-platform/influxdb/](https://www.influxdata.com/time-series-platform/influxdb/)
 - [http://grafana.org/](http://grafana.org/)
 - [http://platformio.org/](http://platformio.org/)
+- [https://github.com/hobbyquaker/awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt)
 - [https://github.com/bastlirna/mqtt-wall](https://github.com/bastlirna/mqtt-wall)
 - [https://github.com/bastlirna/mqtt-2-influxdb](https://github.com/bastlirna/mqtt-2-influxdb)
 - [https://github.com/bastlirna/esp8266-workshop](https://github.com/bastlirna/esp8266-workshop)
